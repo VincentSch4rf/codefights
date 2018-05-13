@@ -1,0 +1,2 @@
+# codefights
+All codefights exercises
